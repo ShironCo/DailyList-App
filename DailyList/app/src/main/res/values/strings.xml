@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DailyList</string>
+    <string name="affirmation1">I am bored</string>
+    <string name="affirmation2">I am cheerful</string>
+    <string name="affirmation3">I am sad</string>
+    <string name="affirmation4">I am angry</string>
+</resources>
