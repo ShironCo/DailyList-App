@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ArtApp</string>
+    <string name="next_button">Next</string>
+    <string name="previous_button">Previous</string>
+    <string name="author1">Leonardo Da Vinci</string>
+    <string name="author2">Eduard Munch</string>
+    <string name="author3">Pablo Picasso</string>
+    <string name="name_art1">Gioconda</string>
+    <string name="name_art2">The Scream</string>
+    <string name="name_art3">Guernica</string>
+    <string name="age_art1">1503</string>
+    <string name="age_art2">1893</string>
+    <string name="age_art3">1937</string>
+</resources>
